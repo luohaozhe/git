@@ -67,5 +67,14 @@ This is zhimeiyouping
 ##克隆项目
 ###`git clong 项目地址` 
 ##邀请团队协作
-
+###生成预览链接
+已经npm run build 生成dist文件夹
+###创建gh-pages分支
+----`git checkout -b gh-pages`
+###提交dist文件夹到本地库
+----`git add -f dist`
+###提交dist到暂存区
+----`git commit -m 'first commit'`
+###提交dist到远程库
+----`git subtree push --prefix dist origin gh-pages`
 
