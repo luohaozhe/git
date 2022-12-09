@@ -1,10 +1,12 @@
-# zhi
-This is zhimeiyouping
+# git
+##This is zhimeiyouping
 
 
 ###git 命令 
 ###第一次使用git 必须设置用户信息 
-###`git config --global user.name luohaozhe` 
+、、、
+`git config --global user.name luohaozhe` 
+、、、
 ###设置用户邮箱 设置成功后可以在本机找到用户目录下的.git开头文件查看
 ###`git config --global user.email luohaozhe@gail` 
 
